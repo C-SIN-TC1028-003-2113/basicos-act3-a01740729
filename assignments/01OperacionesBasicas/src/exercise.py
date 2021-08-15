@@ -8,8 +8,8 @@ def main():
     multiplicacion = n1 * n2 
 
     print('Suma: '+str(suma))
-    print('Suma: '+str(resta))
-    print('Suma: '+str(multiplicacion))
+    print('Resta: '+str(resta))
+    print('Multiplicación: '+str(multiplicacion))
 
 if __name__ == '__main__':
     main()
